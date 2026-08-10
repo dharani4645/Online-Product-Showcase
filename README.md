@@ -102,12 +102,6 @@ No additional installation or dependencies are required.
 
 B.Tech – Computer Science Engineering
 
-## 📬 Contact
-
-* GitHub: Add your GitHub profile link
-* LinkedIn: Add your LinkedIn profile link
-* Email: Add your email address
-
 ## 📄 License
 
 This project is created for **educational and portfolio purposes**.
